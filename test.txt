@@ -1,0 +1,32 @@
+admit Rey Baltar
+timda
+admit martha c
+timda
+admit ravy C
+timda
+admit luffy d
+set complaint he is very tired
+set priority non-urgent
+add symptom hungry
+timda
+display
+admit spider man
+set priority non-urgent
+timda
+admit sand man
+timda
+admit harry potter
+set priority critical
+add symptom famous
+add symptom asleep
+timda
+display
+next
+display
+admit bob dyllan
+set priority code
+timda
+next
+next
+display
+exit
